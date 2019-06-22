@@ -9,6 +9,8 @@ Understand this is Only for iOS platform. The backend will not be included in th
 Subscribe to receive link to "LiveStream" source code:
 https://mailchi.mp/b92218caa245/signup
 
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5TFH4DD9RMPFJ">Purchase iOS/Backend Template</a>
+
 <img src="https://github.com/EmpireAppDesignz/LiveStream-Swift4/blob/master/IMG_1391.PNG"/>
 <img src="https://github.com/EmpireAppDesignz/LiveStream-Swift4/blob/master/IMG_1392.PNG"/>
 <img src="https://github.com/EmpireAppDesignz/LiveStream-Swift4/blob/master/IMG_1390.PNG"/>
