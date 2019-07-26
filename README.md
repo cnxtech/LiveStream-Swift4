@@ -10,8 +10,11 @@ Subscribe to receive link to "LiveStream" source code:
 https://mailchi.mp/b92218caa245/signup
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5TFH4DD9RMPFJ">Purchase iOS/Backend Template $60</a>
+<br>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVR9XXX3FKJ5U">Purchase Android/Backend Template $60</a>
+<br>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VXF28QDYF3LZY">Purchase iOS/Android/Backend Template $100</a>
+<br>
 
 <img src="https://github.com/EmpireAppDesignz/LiveStream-Swift4/blob/master/IMG_1391.PNG"/>
 <img src="https://github.com/EmpireAppDesignz/LiveStream-Swift4/blob/master/IMG_1392.PNG"/>
