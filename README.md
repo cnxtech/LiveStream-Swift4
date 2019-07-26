@@ -6,8 +6,7 @@ iOS Live Video Streaming App Source Code
 Unfortunately, this app file exceeds 25MB to upload on here. I went ahead and uploaded to Google Drive, subscribe to my email list and I'll forward you the link to download the files.
 Understand this is Only for iOS platform. The backend will not be included in the files. You will have to pay for them to operate the app.
 
-Subscribe to receive link to "LiveStream" source code:
-https://mailchi.mp/b92218caa245/signup
+Purchase Source
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5TFH4DD9RMPFJ">Purchase iOS/Backend Template $60</a>
 <br>
